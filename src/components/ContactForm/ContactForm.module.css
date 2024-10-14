@@ -28,7 +28,7 @@
   border: 1px solid black;
   font-size: 14px;
 }
-.bth {
+.btn {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -37,6 +37,9 @@
   border: none;
   border-radius: 5px;
   border: 1px solid black;
+}
+.btn:hover {
+  background-color: #dcdcdc;
 }
 .icon {
   font-size: 20px;
